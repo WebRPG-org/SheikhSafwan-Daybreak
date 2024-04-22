@@ -1,5 +1,7 @@
 # DayBreak
 
+Daybreak offers players an engaging experience as they take on the role of a lone ranger stranded on an uncharted planet. The primary objective is to repair a malfunctioning spacecraft by strategically sourcing essential resources within the alien environment.
+
 Credits: 
 - Emery Theroux - Programmer
 - Sheikh Safwan - Programmer
